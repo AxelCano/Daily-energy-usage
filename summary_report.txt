@@ -1,0 +1,9 @@
+Total energy usage: 5580.68
+Average daily usage: 55.81
+Outliers detected: 5
+
+2024-12-06 - Usage: 142.77 - Z-score: 3.31
+2024-12-17 - Usage: 169.33 - Z-score: 4.32
+2025-02-12 - Usage: 149.19 - Z-score: 3.55
+2025-02-23 - Usage: 154.17 - Z-score: 3.74
+2025-03-09 - Usage: 177.69 - Z-score: 4.64
